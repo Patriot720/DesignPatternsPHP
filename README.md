@@ -31,7 +31,7 @@ The patterns can be structured in roughly three different categories. Please cli
 ### [Behavioral](Behavioral)
 
 * [ChainOfResponsibilities](Behavioral/ChainOfResponsibilities) [:notebook:](http://en.wikipedia.org/wiki/Chain_of_responsibility_pattern)
-* [Command](Behavioral/Command) [:notebook:](http://en.wikipedia.org/wiki/Command_pattern)
+* ~[Command](Behavioral/Command)~ [:notebook:](http://en.wikipedia.org/wiki/Command_pattern)
 * ~[Iterator](Behavioral/Iterator)~ [:notebook:](http://en.wikipedia.org/wiki/Iterator_pattern)
 * ~[Mediator](Behavioral/Mediator)~ [:notebook:](http://en.wikipedia.org/wiki/Mediator_pattern)
 * [Memento](Behavioral/Memento) [:notebook:](http://en.wikipedia.org/wiki/Memento_pattern)
